@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.ict-division {
+  width: 20%;
+}
+.ict-divisions {
+  width: 20%;
+  margin-left: -8%;
+}
+
+.ict-divisionss {
+  width: 20%;
+  margin-left: -8%;
+}
